@@ -5,4 +5,5 @@
 
 # Editor/IDE
 .idea/
-.vscode/
+.vscode/*
+!.vscode/extensions.json
