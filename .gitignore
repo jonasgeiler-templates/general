@@ -9,3 +9,6 @@
 !.idea/icon.svg
 .vscode/*
 !.vscode/extensions.json
+
+# Temporary Files
+scratch.*
